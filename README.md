@@ -20,25 +20,19 @@
 - Automated the provisioning of AWS resources using Terraform, enabling consistent and repeatable deployments.
 - Managed various services including EC2, S3, VPC, and RDS.
 
-### 2. Dockerized Application Deployment
-<a align="right" alt="coding" width="400" href="">click here for repo</a>
-- Containerized a web application using Docker, facilitating seamless deployment and scaling.
-- Orchestrated containers with Kubernetes for high availability and resilience.
-
-### 3. Monitoring and Alerting System
-<a align="right" alt="coding" width="400" href="">click here for repo</a>
-- Configured and maintained monitoring and alerting systems using the ELK stack and CloudWatch.
-- Ensured high availability and performance for multiple client environments.
-
-### 4. Continuous Integration/Continuous Deployment (CI/CD) Pipeline
+### 2. Continuous Integration/Continuous Deployment (CI/CD) Pipeline
 <a align=left href="https://github.com/Kartik-yo/Continuous-Integration-Continuous-Deployment-CI-CD-Pipeline">Click here for repo</a>
 - Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions.
 - Automated build, test, and deployment processes to accelerate software delivery.
 
-### 5. Automated Deployments and Server Management:
+### 3. Automated Deployments and Server Management:
 <a align=left href="https://github.com/Kartik-yo/Automated-Deployments-and-Server-Management">Click here for repo</a>
 - Automated deployment processes and managed server configurations using scripting languages, enhancing system reliability and operational efficiency.
 
+### 4. Projects on AWS 
+<a align="right" alt="coding" width="400" href="https://github.com/Kartik-yo/AWS-PROJECT">click here for repo</a>
+- The repository demonstrates the deployment of a multi-tier website using AWS EC2, enabling scalable and high-availability infrastructure.
+  
 ### Certifications
 - **AWS Solutions Architect Professional Certification**: *In Process* (Expected issuance by July,2024)
 - **AWS Certified DevOps Engineer – Professional**: *In Process* (Expected issuance by july,2024)
