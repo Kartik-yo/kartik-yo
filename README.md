@@ -28,7 +28,10 @@
 
 <h4> 4. Projects on AWS: <a align="right" alt="coding" width="400" href="https://github.com/Kartik-yo/AWS-PROJECT">click here for repo</a></h4>
 - The repository demonstrates the deployment of a multi-tier website using AWS EC2, enabling scalable and high-availability infrastructure.
-  
+
+<h4> 5. Python repo: <a align="right" alt="coding" width="400" href="https://github.com/Kartik-yo/Basic-programs">click here for repo</a></h4>
+- This repository contains a variety of fundamental programming exercises, aimed at helping users understand and practice basic programming concepts.
+
 ### Certifications
 - **AWS Solutions Architect Professional Certification**: *In Process* (Expected issuance by July,2024)
 - **AWS Certified DevOps Engineer – Professional**: *In Process* (Expected issuance by july,2024)
