@@ -11,7 +11,7 @@
 
 ## Projects
 ### 1. Infrastructure Automation with Terraform
-<a align="right" alt="coding" width="400" href="https://lnkd.in/d_2XCVQQ">click here for repo</a>
+<a align="right" alt="coding" width="400" href="https://github.com/Kartik-yo/terraform-repo">click here for repo</a>
 - Automated the provisioning of AWS resources using Terraform, enabling consistent and repeatable deployments.
 - Managed various services including EC2, S3, VPC, and RDS.
 
@@ -26,13 +26,18 @@
 - Ensured high availability and performance for multiple client environments.
 
 ### 4. Continuous Integration/Continuous Deployment (CI/CD) Pipeline
-![CI/CD Pipeline](https://www.example.com/path-to-cicd-image.jpg)
+<a align=left href="https://github.com/Kartik-yo/Continuous-Integration-Continuous-Deployment-CI-CD-Pipeline">Click here for repo</a>
 - Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions.
 - Automated build, test, and deployment processes to accelerate software delivery.
 
+## 5. Automated Deployments and Server Management:
+<a align=left href="https://github.com/Kartik-yo/Automated-Deployments-and-Server-Management">Click here for repo</a>
+-Automated deployment processes and managed server configurations using scripting 
+languages, enhancing system reliability and operational efficiency.
+
 ## Certifications
-- **AWS Solutions Architect Professional Certification**: *In Process* (Expected issuance by [Month, Year])
-- **AWS Certified DevOps Engineer – Professional**: *In Process* (Expected issuance by [Month, Year])
+- **AWS Solutions Architect Professional Certification**: *In Process* (Expected issuance by July,2024)
+- **AWS Certified DevOps Engineer – Professional**: *In Process* (Expected issuance by july,2024)
 
 ## Contact
 - **Email**: [kartikmesh2406@gmail.com](mailto:kartikmesh2406@gmail.com)
