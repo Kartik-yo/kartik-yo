@@ -1,9 +1,9 @@
-# Welcome to My GitHub Profile!
+# Hi! I'm **Kashinath Meshram**, and Welcome to My GitHub Profile!
 
 ![Working on Computer](https://www.example.com/path-to-gif.gif)
 
 ## About Me
-Hi! I'm **Kashinath Meshram**, a passionate Junior DevOps Engineer with a solid foundation in cloud infrastructure, automation, and continuous integration/deployment. I'm constantly learning and exploring new technologies to enhance my skills and deliver efficient and scalable solutions.
+ a passionate Cloud & DevOps Enthusiast with a solid foundation in cloud infrastructure, automation, and continuous integration/deployment. I'm constantly learning and exploring new technologies to enhance my skills and deliver efficient and scalable solutions.
 
 ## Skills
 <p align="left">
@@ -21,7 +21,7 @@ Hi! I'm **Kashinath Meshram**, a passionate Junior DevOps Engineer with a solid 
 
 ## Projects
 ### 1. Infrastructure Automation with Terraform
-![Infrastructure Automation](https://www.example.com/path-to-infra-image.jpg)
+![Infrastructure Automation]((https://lnkd.in/d_2XCVQQ))
 - Automated the provisioning of AWS resources using Terraform, enabling consistent and repeatable deployments.
 - Managed various services including EC2, S3, VPC, and RDS.
 
