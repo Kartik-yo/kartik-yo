@@ -6,9 +6,9 @@
  a passionate Cloud & DevOps Enthusiast with a solid foundation in cloud infrastructure, automation, and continuous integration/deployment. I'm constantly learning and exploring new technologies to enhance my skills and deliver efficient and scalable solutions.
 
 <h3 align="left">Connect with me via: </h3>
-- Email: kartikmesh2406@gmail.com
-- LinkedIn: <a align="right" alt="coding" width="400" href="https://www.linkedin.com/in/kashinath-meshram-837893180/">Kashinath Meshram</a>
-- X: <a align="right" alt="coding" width="400" href="https://x.com/KashinathMeshr2">Kashinath Meshram</a>
+- Email: kartikmesh2406@gmail.com .
+- LinkedIn: <a align="right" alt="coding" width="400" href="https://www.linkedin.com/in/kashinath-meshram-837893180/">Kashinath Meshram</a> .
+- X: <a align="right" alt="coding" width="400" href="https://x.com/KashinathMeshr2">Kashinath Meshram</a> 
 
 ## Skills
 <h3 align="left">Languages and Tools:</h3>
