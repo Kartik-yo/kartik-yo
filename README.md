@@ -11,7 +11,7 @@
 
 ## Projects
 ### 1. Infrastructure Automation with Terraform
-![Infrastructure Automation]((https://lnkd.in/d_2XCVQQ))
+<a align="right" alt="coding" width="400" href="https://lnkd.in/d_2XCVQQ">click here for repo</a>
 - Automated the provisioning of AWS resources using Terraform, enabling consistent and repeatable deployments.
 - Managed various services including EC2, S3, VPC, and RDS.
 
