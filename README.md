@@ -1,6 +1,6 @@
 # Hi! I'm **Kashinath Meshram**, and Welcome to My GitHub Profile!
 
-![Working on Computer](https://www.example.com/path-to-gif.gif)
+![Working on Computer]([https://www.reactiongifs.com/ralph-wiggum-wave/])
 
 ## About Me
  a passionate Cloud & DevOps Enthusiast with a solid foundation in cloud infrastructure, automation, and continuous integration/deployment. I'm constantly learning and exploring new technologies to enhance my skills and deliver efficient and scalable solutions.
