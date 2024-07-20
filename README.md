@@ -1,5 +1,7 @@
 # Hi! I'm **Kashinath Meshram**, and Welcome to My GitHub Profile!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-yo&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-yo" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*9m-WDdL_ji01bGbjEnutEw.gif"></img>
 
 <h3 align="left">About me:</h3>
