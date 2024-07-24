@@ -36,6 +36,6 @@
 
 ### Certifications
 - **AWS Solutions Architect Associate Certification**<a align=left href="https://lms.intellipaat.com/certificate-link/?Yz05MTExOCZ1PTIzNDI1MCZleHQ9MQ==">Click here for verify</a></h4>
-- **DevOps Training – Intellipaat Software Solutions Pvt. Ltd. **<a align=left href="https://lms.intellipaat.com/certificate-link/?Yz01ODYzMCZ1PTIzNDI1MCZleHQ9MQ==">Click here for verify</a></h4>
+- **DevOps Training – Intellipaat Software Solutions Pvt. Ltd.**<a align=left href="https://lms.intellipaat.com/certificate-link/?Yz01ODYzMCZ1PTIzNDI1MCZleHQ9MQ==">Click here for verify</a></h4>
 
 
