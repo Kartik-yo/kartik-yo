@@ -38,5 +38,5 @@
 - **AWS Solutions Architect Associate Certification**<a align=left href="https://lms.intellipaat.com/certificate-link/?Yz05MTExOCZ1PTIzNDI1MCZleHQ9MQ==">Click here for verify</a></h4>
 - **DevOps Training – Intellipaat Software Solutions Pvt. Ltd.**<a align=left href="https://lms.intellipaat.com/certificate-link/?Yz01ODYzMCZ1PTIzNDI1MCZleHQ9MQ==">Click here for verify</a></h4>
 
-#### CLICK <a align=left href="https://github.com/Kartik-yo/kartik-yo/blob/main/kashinath_meshram_1_year_DevopsEngg.pdf">HERE</a> **FOR MY RESUME**
+#### CLICK <a align=left href="https://github.com/Kartik-yo/kartik-yo/blob/main/K_MESHRAM_1Y_DEVOPS.pdf">HERE</a> **FOR MY RESUME**
 
