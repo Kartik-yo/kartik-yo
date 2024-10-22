@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, I'm Kashinath Meshram & Weclome to my github profile!</h1>
 
 <p align="center">📍 Nagpur, Maharashtra | 📧 kartikmesh2406@gmail.com  </p>
-<p align="center"><img src="https://in.pinterest.com/pin/851321135812075209/"> </p>
+<p align="center"><img src="https://in.pinterest.com/pin/851321135812075209/" alt="Waving Avatar" width="200"/> </p>
  <p align="center"><img src="https://komarev.com/ghpvc/?username=kartik-yo&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-yo" /> </p>
 
 ## 🎯 Goals
