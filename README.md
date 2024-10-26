@@ -36,17 +36,17 @@ Long-term: Lead innovative DevOps initiatives and mentor aspiring engineers in t
 
 ## 🛠️ Projects
 
-### [1. Netflix Clone DevSecOps Project](https://github.com/Kartik-yo/Netflix-Clone-DevSecOps-Project)
+### [1. Netflix Clone DevSecOps Project](https://github.com/Kartik-yo/Automated-Deployments-and-Server-Management.git)
 - Configured Jenkins CI/CD pipeline for automated Netflix clone deployment on AWS
 - Integrated SonarQube for static code analysis and security scanning
 - Utilized Docker and Kubernetes for containerization and orchestration
 
-### [2. CRONDA - AWS Resource Optimization and Monitoring](https://github.com/Kartik-yo/CRONDA)
+### [2. CRONDA - AWS Resource Optimization and Monitoring](https://github.com/Kartik-yo/cronda.git)
 - Designed system to monitor and clear unused AWS resources using S3, CloudWatch, Lambda, and EC2
 - Implemented real-time alerts with AWS SNS and automated CI/CD with GitHub Actions
 - Optimized Lambda functions and CloudWatch metrics for improved efficiency
 
-### [3. Kubernetes Orchestration Projects](https://github.com/Kartik-yo/Kubernetes-Orchestration-Projects)
+### [3. Kubernetes Orchestration Projects](https://github.com/Kartik-yo/K8s-projects.git)
 - Deployed microservices using Kubernetes for improved scalability and fault tolerance
 - Automated infrastructure management with Helm charts for consistent deployments
 - Implemented Prometheus and Grafana for comprehensive cluster monitoring
@@ -58,7 +58,7 @@ Long-term: Lead innovative DevOps initiatives and mentor aspiring engineers in t
 
 ### [5. CI/CD with Jenkins and Docker](https://github.com/Kartik-yo/CICD-Jenkins-Docker)
 - Developed Jenkins CI/CD pipeline for automating Docker containerized application deployments
-- Configured Azure Pipelines for cloud-based continuous integration and deployment
+- Configured aws Pipelines for cloud-based continuous integration and deployment
 - Utilized Docker Compose for streamlined multi-container application management
 
 ## 📜 Certifications
