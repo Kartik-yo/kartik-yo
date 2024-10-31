@@ -61,6 +61,11 @@ Long-term: Lead innovative DevOps initiatives and mentor aspiring engineers in t
 - Configured aws Pipelines for cloud-based continuous integration and deployment
 - Utilized Docker Compose for streamlined multi-container application management
 
+###[6. HACK(under process)](https://github.com/Kartik-yo/HACK)
+- a comprehensive infrastructure project implementing secure and scalable microservices deployment using modern cloud-native technologies.
+- The project leverages AWS cloud services, Terraform for infrastructure as code, Helm for package management, HashiCorp Vault for secrets management, and Prometheus/Grafana 
+   for monitoring.
+
 ## 📜 Certifications
 
 - <a align=left href="https://lms.intellipaat.com/certificate-link/?Yz05MTExOCZ1PTIzNDI1MCZleHQ9MQ==">AWS Certified Solutions Architect - Associate</a>
