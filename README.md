@@ -56,7 +56,7 @@ Long-term: Lead innovative DevOps initiatives and mentor aspiring engineers in t
 - Implemented cost-efficient solutions for processing and storing user data
 - Automated deployment using CloudFormation for faster infrastructure provisioning
 
-### [5. CI/CD with Jenkins and Docker](https://github.com/Kartik-yo/CICD-Jenkins-Docker)
+### [5. CI/CD with Jenkins and Docker](https://github.com/Kartik-yo/Cloud-Infrastructure-automation)
 - Developed Jenkins CI/CD pipeline for automating Docker containerized application deployments
 - Configured aws Pipelines for cloud-based continuous integration and deployment
 - Utilized Docker Compose for streamlined multi-container application management
