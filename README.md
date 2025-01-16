@@ -78,5 +78,5 @@ Long-term: Lead innovative DevOps initiatives and mentor aspiring engineers in t
 - Graduated: June 2023
 
 ---
-#### CLICK <a align=left href="https://github.com/Kartik-yo/kartik-yo/blob/main/K_MESHRAM_1Y_DEVOPS.pdf">HERE</a> **FOR MY RESUME**
+#### CLICK <a align=left href="https://github.com/Kartik-yo/kartik-yo/blob/main/Kashinath_Meshram_Resume.pdf.pdf">HERE</a> **FOR MY RESUME**
 #### Feel free to reachout for collaborations or just a chat about DevOps and cloud technologies, I'm always open forlearning and sharing 😀
