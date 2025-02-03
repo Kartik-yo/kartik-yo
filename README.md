@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kashinath Meshram
 
 ## 🚀 About Me
-Results-driven Software Development Engineer in Test (SDET) with expertise in test automation and cloud technologies. I specialize in developing robust automated testing frameworks using Python, with a strong focus on API testing and DevOps practices.
+Results-driven Automation Test Engineer (Python) with expertise in test automation and cloud technologies. I specialize in developing robust automated testing frameworks using Python, with a strong focus on API testing and DevOps practices.
 
 ## 💼 Professional Experience
 - 🔍 **DevOps & Test Automation Intern** @ Intellipaat Software Solutions Pvt. Ltd.
