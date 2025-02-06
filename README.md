@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Kashinath Meshram
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kartik-yo" alt="Kartik-yo" /></a> </p>
+
+
 ## 🚀 About Me
 Results-driven Automation Test Engineer (Python) with expertise in test automation and cloud technologies. I specialize in developing robust automated testing frameworks using Python, with a strong focus on API testing and DevOps practices.
 
