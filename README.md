@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-Results-driven Automation Test Engineer (Python) with expertise in test automation and cloud technologies. I specialize in developing robust automated testing frameworks using Python, with a strong focus on API testing and DevOps practices.
+Results-driven Automation Engineer (Python) with expertise in test automation and cloud technologies. I specialize in developing robust automated testing frameworks using Python, with a strong focus on API testing and DevOps practices.
 
 ## 💼 Professional Experience
 - 🔍 **DevOps & Test Automation Intern** @ Intellipaat Software Solutions Pvt. Ltd.
@@ -53,7 +53,6 @@ Results-driven Automation Test Engineer (Python) with expertise in test automati
 ## 📫 How to reach me
 - 📧 Email: kartikmesh2406@gmail.com
 - 💼 LinkedIn: [kashinathmeshram](https://www.linkedin.com/in/kashinathmeshram)
-- 📞 Phone: +91-8999540880
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-yo&show_icons=true&theme=radical)
