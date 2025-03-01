@@ -58,4 +58,4 @@ Results-driven Automation Engineer (Python) with expertise in test automation an
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-yo&show_icons=true&theme=radical)
 
 ## 🎓 Education
-Bachelor of Engineering (B.E.) - CGPA: 7.76/10
+Bachelor of Engineering (B.E.) - CGPA: 7.55/10
